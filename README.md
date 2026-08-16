@@ -1,5 +1,5 @@
-###
-> git diff --name-only openwrt-24.10
+git diff --name-only openwrt-24.10
+
 .config
 .gitignore
 target/linux/mediatek/dts/mt7981b-rm65.dts
